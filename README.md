@@ -1,7 +1,8 @@
 # Buttons
 ## Feito assistindo tutorial do canal no YouTube ONLINE TUTORIALS.
 
-## Link do Canal → <a href="https://www.youtube.com/c/OnlineTutorials4Designers" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+## Link do Canal
+<a href="https://www.youtube.com/c/OnlineTutorials4Designers" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
 
 ![button](https://user-images.githubusercontent.com/23384348/152422821-6f491b70-2f76-4efb-988e-3f8bf0799073.png)
 ![button-2](https://user-images.githubusercontent.com/23384348/152423045-edcc383e-8ffe-4241-803e-bbab9866cfcd.png)
